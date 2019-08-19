@@ -1,0 +1,2 @@
+# logos
+Logotype of HPCNow!
